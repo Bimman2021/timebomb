@@ -1,5 +1,5 @@
 {
-  "name": "yourvendor/tmx",
+  "name": "bimman2021/tmx",
   "description": "A time-based execution control package.",
   "type": "library",
   "autoload": {
