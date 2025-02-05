@@ -2,6 +2,7 @@
   "name": "bimman2021/tmx",
   "description": "A time-based execution control package.",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Tmx\\": "src/"
