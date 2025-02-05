@@ -1,0 +1,13 @@
+{
+  "name": "yourvendor/tmx",
+  "description": "A time-based execution control package.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Tmx\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
